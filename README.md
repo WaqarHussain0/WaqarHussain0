@@ -13,6 +13,3 @@ I'm a Full-Stack Software Engineer with 2+ years of experience shipping scalable
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=WaqarHussain0&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=WaqarHussain0&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
